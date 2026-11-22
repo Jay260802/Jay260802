@@ -1,6 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-labelledby="title">
-  <title id="title">Renal Cancer Research</title>
-  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#151326"/><stop offset="1" stop-color="#3B1D45"/></linearGradient><radialGradient id="cell"><stop stop-color="#F0ABFC"/><stop offset=".68" stop-color="#A855F7"/><stop offset="1" stop-color="#4C1D95"/></radialGradient></defs>
-  <rect width="720" height="300" rx="20" fill="url(#b)"/><g opacity=".87" stroke="#F5D0FE" stroke-opacity=".65"><circle cx="478" cy="108" r="46" fill="url(#cell)"/><circle cx="577" cy="103" r="30" fill="url(#cell)"/><circle cx="632" cy="176" r="44" fill="url(#cell)"/><circle cx="510" cy="207" r="32" fill="url(#cell)"/><circle cx="397" cy="189" r="26" fill="url(#cell)"/></g><g fill="#FDF4FF" opacity=".85"><circle cx="478" cy="108" r="8"/><circle cx="577" cy="103" r="6"/><circle cx="632" cy="176" r="9"/><circle cx="510" cy="207" r="6"/><circle cx="397" cy="189" r="5"/></g><path d="M345 44h220m-190 0v44m160-44v44M374 88l-24 46m166-46 34 41" fill="none" stroke="#C4B5FD" stroke-width="2" opacity=".5"/>
-  <text x="48" y="244" fill="#E9D5FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="4">03 / COMPUTATIONAL PATHOLOGY</text><text x="48" y="275" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700">RENAL CANCER RESEARCH</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Automated Histologic Subtyping of Renal Cell Carcinoma</title>
+  <desc id="desc">Computational pathology study with four subtype classes and reported research metrics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101222"/><stop offset=".55" stop-color="#251A3C"/><stop offset="1" stop-color="#3A1744"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#C4B5FD"/><stop offset="1" stop-color="#F0ABFC"/></linearGradient>
+    <radialGradient id="cell"><stop stop-color="#F5D0FE"/><stop offset=".36" stop-color="#C084FC"/><stop offset="1" stop-color="#5B21B6"/></radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#D8B4FE" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="330" rx="22" fill="url(#bg)"/><rect width="1200" height="330" rx="22" fill="url(#grid)"/>
+  <g opacity=".95" stroke="#F5D0FE" stroke-opacity=".55" stroke-width="1.5">
+    <path d="M46 48q35-28 66 3t61-5 58 7 59-8 60 12M40 97q31-24 58 5t61-4 61 10 61-12 57 9M46 148q35-26 63 3t58-5 62 8 59-10 58 8M40 204q31-24 60 6t60-3 60 8 60-11 64 8M44 260q33-25 62 3t61-6 59 8 61-10 58 7" fill="none"/>
+    <circle cx="78" cy="73" r="17" fill="url(#cell)"/><circle cx="152" cy="58" r="12" fill="url(#cell)"/><circle cx="221" cy="94" r="20" fill="url(#cell)"/><circle cx="286" cy="66" r="14" fill="url(#cell)"/><circle cx="102" cy="132" r="23" fill="url(#cell)"/><circle cx="176" cy="157" r="15" fill="url(#cell)"/><circle cx="261" cy="144" r="24" fill="url(#cell)"/><circle cx="66" cy="213" r="14" fill="url(#cell)"/><circle cx="144" cy="228" r="24" fill="url(#cell)"/><circle cx="225" cy="203" r="17" fill="url(#cell)"/><circle cx="294" cy="244" r="23" fill="url(#cell)"/><circle cx="82" cy="278" r="18" fill="url(#cell)"/><circle cx="199" cy="278" r="13" fill="url(#cell)"/>
+  </g>
+  <rect x="359" y="31" width="2" height="268" fill="url(#edge)" opacity=".7"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="399" y="63" fill="#E9D5FF" font-size="14" letter-spacing="4">RESEARCH  /  COMPUTATIONAL PATHOLOGY</text>
+    <text x="397" y="121" fill="#F8FAFC" font-size="32" font-weight="700" letter-spacing=".3">AUTOMATED HISTOLOGIC SUBTYPING</text>
+    <text x="399" y="163" fill="#F8FAFC" font-size="28" font-weight="600">RENAL CELL CARCINOMA</text>
+    <text x="399" y="198" fill="#C4B5FD" font-size="16">Four subtype classes  ·  563 whole-slide images</text>
+    <rect x="399" y="225" width="220" height="61" rx="10" fill="#171A2D" stroke="#A78BFA" stroke-opacity=".5"/>
+    <rect x="632" y="225" width="220" height="61" rx="10" fill="#171A2D" stroke="#A78BFA" stroke-opacity=".5"/>
+    <rect x="865" y="225" width="289" height="61" rx="10" fill="#171A2D" stroke="#A78BFA" stroke-opacity=".5"/>
+    <text x="418" y="250" fill="#A5B4FC" font-size="11" letter-spacing="1.5">TEST ACCURACY</text>
+    <text x="418" y="275" fill="#F8FAFC" font-size="21" font-weight="700">93.38%</text>
+    <text x="651" y="250" fill="#A5B4FC" font-size="11" letter-spacing="1.5">VALIDATION</text>
+    <text x="651" y="275" fill="#F8FAFC" font-size="21" font-weight="700">93.93%</text>
+    <text x="884" y="250" fill="#A5B4FC" font-size="11" letter-spacing="1.5">ROC–AUC ACROSS SUBTYPES</text>
+    <text x="884" y="275" fill="#F8FAFC" font-size="21" font-weight="700">0.93–0.96</text>
+  </g>
+  <rect x="22" y="22" width="1156" height="286" rx="17" fill="none" stroke="#E9D5FF" stroke-opacity=".22"/>
 </svg>

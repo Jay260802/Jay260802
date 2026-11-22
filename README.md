@@ -10,9 +10,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Claude-AI%20assistant-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/Codex-AI%20coding-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-<img src="https://img.shields.io/badge/Gemini-AI%20assistant-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/Claude?color=D97757&style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/OpenAI%20Codex?color=111827&style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+<img src="https://img.shields.io/badge/Gemini?color=4285F4&style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 
 </div>
 
@@ -28,25 +28,25 @@
 
 **AI, machine learning & NLP**
 
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Llama%203-Models-7C3AED?style=flat-square" alt="Llama 3" />
-<img src="https://img.shields.io/badge/Random%20Forest-ML-15803D?style=flat-square" alt="Random Forest" />
-<img src="https://img.shields.io/badge/GAN-Deep%20Learning-7C3AED?style=flat-square" alt="GAN" />
-<img src="https://img.shields.io/badge/PyPDF2-Document%20Parsing-4B5563?style=flat-square" alt="PyPDF2" />
+<img src="https://img.shields.io/badge/Keras?color=D00000&style=flat&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/Transformers?color=FFD21E&style=flat&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
+<img src="https://img.shields.io/badge/LangChain?color=1C3C3C&style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/scikit--learn?color=F7931E&style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Llama%203?color=7C3AED&style=flat" alt="Llama 3" />
+<img src="https://img.shields.io/badge/Random%20Forest?color=15803D&style=flat" alt="Random Forest" />
+<img src="https://img.shields.io/badge/GAN?color=7C3AED&style=flat" alt="GAN" />
+<img src="https://img.shields.io/badge/PyPDF2?color=4B5563&style=flat" alt="PyPDF2" />
 
 <br />
 
 **Web, semantic data & research**
 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/RDF%2FXML-Semantic%20Web-4B5563?style=flat-square" alt="RDF and XML" />
-<img src="https://img.shields.io/badge/SPARQL-Query%20Language-4B5563?style=flat-square" alt="SPARQL" />
-<img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter notebooks" />
-<img src="https://img.shields.io/badge/Google%20Colab-Research%20notebooks-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
-<img src="https://img.shields.io/badge/Hadoop-Data%20analysis-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Apache Hadoop" />
+<img src="https://img.shields.io/badge/Spring%20Boot?color=6DB33F&style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/RDF%20%2F%20XML?color=4B5563&style=flat" alt="RDF and XML" />
+<img src="https://img.shields.io/badge/SPARQL?color=4B5563&style=flat" alt="SPARQL" />
+<img src="https://img.shields.io/badge/Jupyter?color=F37626&style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Google%20Colab?color=F9AB00&style=flat&logo=googlecolab&logoColor=white" alt="Google Colab" />
+<img src="https://img.shields.io/badge/Hadoop?color=66CCFF&style=flat&logo=apachehadoop&logoColor=black" alt="Hadoop" />
 
 </div>
 

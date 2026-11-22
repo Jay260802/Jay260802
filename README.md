@@ -2,59 +2,9 @@
 
 <img src="./assets/profile-header.svg" width="100%" alt="Jay Sancheti — AI Engineer" />
 
-### AI engineering · machine learning · research prototypes
+### Turning models and experiments into useful systems.
 
 </div>
-
-## ◈ AI workbench
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Claude?color=D97757&style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/OpenAI%20Codex?color=111827&style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-<img src="https://img.shields.io/badge/Gemini?color=4285F4&style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-
-</div>
-
-## ⌘ Technologies across my projects
-
-<div align="center">
-
-**Languages & frameworks**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,tensorflow,react,spring&theme=dark" alt="Python, C++, JavaScript, PyTorch, TensorFlow, React, and Spring icons" />
-
-<br />
-
-**AI, machine learning & NLP**
-
-<img src="https://img.shields.io/badge/Keras?color=D00000&style=flat&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/Transformers?color=FFD21E&style=flat&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
-<img src="https://img.shields.io/badge/LangChain?color=1C3C3C&style=flat&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/scikit--learn?color=F7931E&style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Llama%203?color=7C3AED&style=flat" alt="Llama 3" />
-<img src="https://img.shields.io/badge/Random%20Forest?color=15803D&style=flat" alt="Random Forest" />
-<img src="https://img.shields.io/badge/GAN?color=7C3AED&style=flat" alt="GAN" />
-<img src="https://img.shields.io/badge/PyPDF2?color=4B5563&style=flat" alt="PyPDF2" />
-
-<br />
-
-**Web, semantic data & research**
-
-<img src="https://img.shields.io/badge/Spring%20Boot?color=6DB33F&style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/RDF%20%2F%20XML?color=4B5563&style=flat" alt="RDF and XML" />
-<img src="https://img.shields.io/badge/SPARQL?color=4B5563&style=flat" alt="SPARQL" />
-<img src="https://img.shields.io/badge/Jupyter?color=F37626&style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Google%20Colab?color=F9AB00&style=flat&logo=googlecolab&logoColor=white" alt="Google Colab" />
-<img src="https://img.shields.io/badge/Hadoop?color=66CCFF&style=flat&logo=apachehadoop&logoColor=black" alt="Hadoop" />
-
-</div>
-
-<details>
-  <summary><b>Educational Chatbot stack note</b></summary>
-  <br />
-  <p>The résumé version lists TensorFlow/Keras. The archived notebooks also contain PyTorch LSTM/GRU, Llama 3, Hugging Face Transformers, and LangChain experiments. These technologies span the project archive and should not be read as a claim that every component shipped in one chatbot build.</p>
-</details>
 
 ## ✦ Selected projects
 
@@ -84,14 +34,91 @@
   </tr>
 </table>
 
-## ◈ Project map
+## ◈ How the projects connect
 
 <div align="center">
 
-<img src="./assets/project-map-3d.svg" width="100%" alt="Isometric 3D map connecting my learning systems, stadium analytics, and computational pathology projects" />
+<img src="./assets/project-map-3d.svg" width="100%" alt="Isometric 3D map connecting learning systems, stadium analytics, and computational pathology, with a light moving along the project network" />
 
 </div>
 
+## ⌘ Toolbox
+
+<div align="center">
+
+**AI workbench**
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="./assets/tool-icons/ai-assistant-one.svg" width="42" height="42" alt="Warm coral AI assistant monogram icon" /><br /><sub>Claude</sub></td>
+    <td align="center" width="33%"><img src="./assets/tool-icons/ai-assistant-two.svg" width="42" height="42" alt="Teal code assistant monogram icon" /><br /><sub>OpenAI Codex</sub></td>
+    <td align="center" width="33%"><img src="./assets/tool-icons/ai-assistant-three.svg" width="42" height="42" alt="Blue AI assistant monogram icon" /><br /><sub>Gemini</sub></td>
+  </tr>
+</table>
+
+<br />
+
+**Languages & frameworks**
+
+<table>
+  <tr>
+    <td width="20%" align="center"><img src="./assets/icons/python.svg" width="42" height="42" alt="Python monogram icon" /><br /><sub>Python</sub></td>
+    <td width="20%" align="center"><img src="./assets/icons/cplusplus.svg" width="42" height="42" alt="C++ monogram icon" /><br /><sub>C++</sub></td>
+    <td width="20%" align="center"><img src="./assets/icons/javascript.svg" width="42" height="42" alt="JavaScript monogram icon" /><br /><sub>JavaScript</sub></td>
+    <td width="20%" align="center"><img src="./assets/icons/react.svg" width="42" height="42" alt="React monogram icon" /><br /><sub>React</sub></td>
+    <td width="20%" align="center"><img src="./assets/icons/spring.svg" width="42" height="42" alt="Spring monogram icon" /><br /><sub>Spring Boot</sub></td>
+  </tr>
+</table>
+
+<br />
+
+**AI & machine learning**
+
+<table>
+  <tr>
+    <td width="33%" align="center"><img src="./assets/icons/pytorch.svg" width="42" height="42" alt="PyTorch monogram icon" /><br /><sub>PyTorch</sub></td>
+    <td width="33%" align="center"><img src="./assets/icons/tensorflow.svg" width="42" height="42" alt="TensorFlow monogram icon" /><br /><sub>TensorFlow</sub></td>
+    <td width="33%" align="center"><img src="./assets/icons/keras.svg" width="42" height="42" alt="Keras monogram icon" /><br /><sub>Keras</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><img src="./assets/icons/huggingface.svg" width="42" height="42" alt="Hugging Face monogram icon" /><br /><sub>Transformers</sub></td>
+    <td width="33%" align="center"><img src="./assets/icons/langchain.svg" width="42" height="42" alt="LangChain monogram icon" /><br /><sub>LangChain</sub></td>
+    <td width="33%" align="center"><img src="./assets/icons/scikitlearn.svg" width="42" height="42" alt="scikit-learn monogram icon" /><br /><sub>scikit-learn</sub></td>
+  </tr>
+</table>
+
+<br />
+
+**Research & data tools**
+
+<table>
+  <tr>
+    <td width="33%" align="center"><img src="./assets/icons/jupyter.svg" width="42" height="42" alt="Jupyter monogram icon" /><br /><sub>Jupyter</sub></td>
+    <td width="33%" align="center"><img src="./assets/icons/googlecolab.svg" width="42" height="42" alt="Google Colab monogram icon" /><br /><sub>Google Colab</sub></td>
+    <td width="33%" align="center"><img src="./assets/icons/apachehadoop.svg" width="42" height="42" alt="Apache Hadoop monogram icon" /><br /><sub>Hadoop</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><img src="./assets/icons/rdfxml.svg" width="42" height="42" alt="RDF and XML monogram icon" /><br /><sub>RDF · XML</sub></td>
+    <td width="33%" align="center"><img src="./assets/icons/sparql.svg" width="42" height="42" alt="SPARQL monogram icon" /><br /><sub>SPARQL</sub></td>
+    <td width="33%" align="center"><img src="./assets/icons/llama3.svg" width="42" height="42" alt="Llama 3 monogram icon" /><br /><sub>Llama 3</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><img src="./assets/icons/randomforest.svg" width="42" height="42" alt="Random Forest monogram icon" /><br /><sub>Random Forest</sub></td>
+    <td width="33%" align="center"><img src="./assets/icons/gan.svg" width="42" height="42" alt="GAN monogram icon" /><br /><sub>GAN</sub></td>
+    <td width="33%" align="center"><img src="./assets/icons/pypdf2.svg" width="42" height="42" alt="PyPDF2 monogram icon" /><br /><sub>PyPDF2</sub></td>
+  </tr>
+</table>
+
+</div>
+
+<details>
+  <summary><b>Educational Chatbot archive note</b></summary>
+  <br />
+  <p>The résumé version lists TensorFlow/Keras. The archived notebooks also contain PyTorch LSTM/GRU, Llama 3, Hugging Face Transformers, and LangChain experiments. These technologies span the project archive and should not be read as a claim that every component shipped in one chatbot build.</p>
+</details>
+
 <div align="center">
 <sub>Personal projects · experiments · research</sub>
+<br />
+<sub>Profile components: <a href="https://github.com/Jay260802/github-profile-kit">github-profile-kit</a></sub>
 </div>

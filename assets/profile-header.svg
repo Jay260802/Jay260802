@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-labelledby="title desc">
+  <title id="title">Jay Sancheti — AI Engineer</title>
+  <desc id="desc">A dark indigo neural interface with connected nodes and a bright cyan and violet signal.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090D19"/><stop offset=".55" stop-color="#111A36"/><stop offset="1" stop-color="#28164D"/></linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#8B5CF6" stop-opacity=".55"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#94A3B8" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1280" height="330" rx="24" fill="url(#bg)"/><rect width="1280" height="330" rx="24" fill="url(#grid)"/>
+  <circle cx="1000" cy="160" r="250" fill="url(#glow)"/>
+  <path d="M780 220 885 152 970 185 1065 95 1150 133 1235 55M822 81l63 71m85-49-30 82m125-90-65 123m150-85-43 81" fill="none" stroke="url(#beam)" stroke-width="2" stroke-opacity=".75"/>
+  <g fill="#D9F6FF" stroke="#38BDF8" stroke-width="2"><circle cx="780" cy="220" r="6"/><circle cx="885" cy="152" r="8"/><circle cx="970" cy="185" r="5"/><circle cx="1065" cy="95" r="8"/><circle cx="1150" cy="133" r="5"/><circle cx="1235" cy="55" r="7"/><circle cx="822" cy="81" r="5"/></g>
+  <g font-family="Segoe UI,Arial,sans-serif"><text x="76" y="77" fill="#67E8F9" font-size="15" letter-spacing="5">PERSONAL PROJECT STUDIO  /  01</text><text x="72" y="174" fill="#F8FAFC" font-size="62" font-weight="700" letter-spacing="1">JAY S.</text><text x="77" y="218" fill="#C4B5FD" font-size="20" letter-spacing="4">AI ENGINEER</text><path d="M78 246h380" stroke="url(#beam)" stroke-width="3"/><text x="78" y="281" fill="#CBD5E1" font-size="17">Models · experiments · useful systems</text></g>
+  <rect x="30" y="30" width="1220" height="270" rx="18" fill="none" stroke="#A5B4FC" stroke-opacity=".22"/>
+</svg>

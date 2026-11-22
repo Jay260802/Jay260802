@@ -4,23 +4,34 @@
 
 ## ⌘ Tools & technologies
 
+<p><b>AI coding tools</b></p>
 <table width="100%">
-  <tr><th colspan="3" align="left">AI workbench</th></tr>
   <tr>
-    <td width="33%" align="center"><img src="./assets/brand-icons/anthropic.svg" width="46" height="46" alt="Anthropic logo" /><br /><sub>Claude</sub></td>
-    <td width="33%" align="center"><img src="./assets/brand-icons/openai.svg" width="46" height="46" alt="OpenAI logo" /><br /><sub>Codex</sub></td>
-    <td width="33%" align="center"><img src="./assets/brand-icons/googlegemini.svg" width="46" height="46" alt="Google Gemini logo" /><br /><sub>Gemini</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/claude-code.svg" width="46" height="46" alt="Official Claude Code symbol" /><br /><sub>Claude Code</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/githubcopilot.svg" width="46" height="46" alt="GitHub Copilot logo" /><br /><sub>GitHub Copilot</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/openai.svg" width="46" height="46" alt="OpenAI logo" /><br /><sub>OpenAI Codex</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/googlegemini.svg" width="46" height="46" alt="Google Gemini logo" /><br /><sub>Gemini</sub></td>
   </tr>
-  <tr><th colspan="6" align="left">Languages & frameworks</th></tr>
+</table>
+
+<p><b>Languages & application development</b></p>
+<table width="100%">
   <tr>
-    <td width="16%" align="center"><img src="./assets/brand-icons/python.svg" width="46" height="46" alt="Python logo" /><br /><sub>Python</sub></td>
-    <td width="16%" align="center"><img src="./assets/brand-icons/cplusplus.svg" width="46" height="46" alt="C++ logo" /><br /><sub>C++</sub></td>
-    <td width="16%" align="center"><img src="./assets/brand-icons/javascript.svg" width="46" height="46" alt="JavaScript logo" /><br /><sub>JavaScript</sub></td>
-    <td width="16%" align="center"><img src="./assets/brand-icons/react.svg" width="46" height="46" alt="React logo" /><br /><sub>React</sub></td>
-    <td width="16%" align="center"><img src="./assets/brand-icons/spring.svg" width="46" height="46" alt="Spring logo" /><br /><sub>Spring Boot</sub></td>
-    <td width="16%" align="center"><img src="./assets/brand-icons/apachehadoop.svg" width="46" height="46" alt="Apache Hadoop logo" /><br /><sub>Hadoop</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/python.svg" width="46" height="46" alt="Python logo" /><br /><sub>Python</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/c.svg" width="46" height="46" alt="C logo" /><br /><sub>C</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/cplusplus.svg" width="46" height="46" alt="C++ logo" /><br /><sub>C++</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/javascript.svg" width="46" height="46" alt="JavaScript logo" /><br /><sub>JavaScript</sub></td>
   </tr>
-  <tr><th colspan="6" align="left">AI, machine learning & research</th></tr>
+  <tr>
+    <td width="25%" align="center"><img src="./assets/brand-icons/fastapi.svg" width="46" height="46" alt="FastAPI logo" /><br /><sub>FastAPI</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/react.svg" width="46" height="46" alt="React logo" /><br /><sub>React</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/spring.svg" width="46" height="46" alt="Spring logo" /><br /><sub>Spring Boot</sub></td>
+    <td width="25%" align="center"><sub>SQL · REST APIs</sub></td>
+  </tr>
+</table>
+
+<p><b>AI, machine learning & research</b></p>
+<table width="100%">
   <tr>
     <td width="16%" align="center"><img src="./assets/brand-icons/tensorflow.svg" width="46" height="46" alt="TensorFlow logo" /><br /><sub>TensorFlow</sub></td>
     <td width="16%" align="center"><img src="./assets/brand-icons/keras.svg" width="46" height="46" alt="Keras logo" /><br /><sub>Keras</sub></td>
@@ -29,20 +40,39 @@
     <td width="16%" align="center"><img src="./assets/brand-icons/langchain.svg" width="46" height="46" alt="LangChain logo" /><br /><sub>LangChain</sub></td>
     <td width="16%" align="center"><img src="./assets/brand-icons/scikitlearn.svg" width="46" height="46" alt="scikit-learn logo" /><br /><sub>scikit-learn</sub></td>
   </tr>
+</table>
+
+<p><b>Cloud, DevOps & source control</b></p>
+<table width="100%">
   <tr>
-    <td width="16%" align="center"><img src="./assets/brand-icons/jupyter.svg" width="46" height="46" alt="Jupyter logo" /><br /><sub>Jupyter</sub></td>
-    <td width="16%" align="center"><img src="./assets/brand-icons/googlecolab.svg" width="46" height="46" alt="Google Colab logo" /><br /><sub>Google Colab</sub></td>
-    <td colspan="4" align="left"><sub>Methods & formats: Random Forest · GAN · RDF/XML · SPARQL · Llama 3 · PyPDF2</sub></td>
+    <td width="16%" align="center"><img src="./assets/brand-icons/azure.svg" width="46" height="46" alt="Microsoft Azure logo" /><br /><sub>Azure</sub></td>
+    <td width="16%" align="center"><img src="./assets/brand-icons/terraform.svg" width="46" height="46" alt="Terraform logo" /><br /><sub>Terraform</sub></td>
+    <td width="16%" align="center"><img src="./assets/brand-icons/azuredevops.svg" width="46" height="46" alt="Azure DevOps logo" /><br /><sub>Azure DevOps</sub></td>
+    <td width="16%" align="center"><img src="./assets/brand-icons/git.svg" width="46" height="46" alt="Git logo" /><br /><sub>Git</sub></td>
+    <td width="16%" align="center"><img src="./assets/brand-icons/github.svg" width="46" height="46" alt="GitHub logo" /><br /><sub>GitHub</sub></td>
+    <td width="16%" align="center"><img src="./assets/brand-icons/githubactions.svg" width="46" height="46" alt="GitHub Actions logo" /><br /><sub>GitHub Actions · CI/CD</sub></td>
   </tr>
 </table>
 
-## ◈ Profile analyzer
+<p><b>Data, development & observability</b></p>
+<table width="100%">
+  <tr>
+    <td width="25%" align="center"><img src="./assets/brand-icons/jupyter.svg" width="46" height="46" alt="Jupyter logo" /><br /><sub>Jupyter</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/googlecolab.svg" width="46" height="46" alt="Google Colab logo" /><br /><sub>Google Colab</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/apachehadoop.svg" width="46" height="46" alt="Apache Hadoop logo" /><br /><sub>Hadoop</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/apachespark.svg" width="46" height="46" alt="Apache Spark logo" /><br /><sub>PySpark</sub></td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><img src="./assets/brand-icons/opentelemetry.svg" width="46" height="46" alt="OpenTelemetry logo" /><br /><sub>OpenTelemetry</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/elastic.svg" width="46" height="46" alt="Elastic logo" /><br /><sub>Elastic</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/linux.svg" width="46" height="46" alt="Linux logo" /><br /><sub>Linux</sub></td>
+    <td width="25%" align="center"><img src="./assets/brand-icons/vscode.svg" width="46" height="46" alt="Visual Studio Code logo" /><br /><sub>VS Code</sub></td>
+  </tr>
+</table>
 
-<div align="center">
-<img src="./assets/profile-analyzer.svg" width="100%" alt="Profile README analyzer checklist: image links, alt text, section outline, remote images, and credential-shaped strings" />
-</div>
-
-A local checklist checks structure, image paths, alt text, remote image dependencies, and credential-shaped strings. It does not assign a score or run as a live dashboard.
+<p><sub>Azure services: Functions · SQL · Cosmos DB · Service Bus · AI Search · Blob Storage · Data Factory · Synapse · Monitor · Application Insights</sub></p>
+<p><sub>Analytics & data: Power BI · Analysis Services · Delta Lake · ETL · KQL · Bruno</sub></p>
+<p><sub>Methods: Random Forest · GAN &nbsp; | &nbsp; Semantic web: RDF/XML · SPARQL &nbsp; | &nbsp; Models & parsing: Llama 3 · PyPDF2 &nbsp; | &nbsp; APIs & agent systems: REST · MCP · semantic search · agent evaluation · skills · context engineering</sub></p>
 
 ## ◈ 3D project map
 
@@ -78,8 +108,16 @@ A local checklist checks structure, image paths, alt text, remote image dependen
   </tr>
 </table>
 
+## ◈ Contribution snake
+
+<div align="center">
+<img src="./assets/contribution-snake.svg" width="100%" alt="Animated snake tracing Jay's public GitHub contribution calendar through November 22, 2026" />
+</div>
+
 <div align="center">
 <sub>Personal projects · experiments · research</sub>
 <br />
-<sub>Reusable components: <a href="https://github.com/Jay260802/github-profile-kit">GitHub Profile Kit</a> · <a href="https://github.com/Jay260802/github-profile-kit/blob/main/tools/analyze_profile.py">Analyzer source</a></sub>
+<sub>Contribution image is a local calendar snapshot through November 22, 2026.</sub>
+<br />
+<sub>Reusable components: <a href="https://github.com/Jay260802/github-profile-kit">GitHub Profile Kit</a> · <a href="https://github.com/Jay260802/github-profile-kit/blob/main/tools/analyze_profile.py">Profile analyzer</a> · <a href="https://github.com/Jay260802/github-profile-kit/blob/main/tools/generate_snake.py">Snake generator</a></sub>
 </div>
